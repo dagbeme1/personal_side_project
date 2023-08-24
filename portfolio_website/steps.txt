@@ -1,0 +1,8 @@
+- portfolio
+  - index.html
+  - css
+    - styles.css
+  - images
+    - profile-picture.jpg
+  - scripts
+    - main.js (optional)
