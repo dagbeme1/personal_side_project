@@ -1,4 +1,3 @@
-![ml](https://github.com/dagbeme1/personal_side_project/assets/105249635/52c8595b-be44-4d77-9745-9726d707e98d)
 
 Machine learning is a powerful field of study that focuses on developing algorithms and models that enable computers to learn and make predictions or decisions without being explicitly programmed. It is a subset of artificial intelligence (AI) that aims to mimic human intelligence by using data and statistical techniques to identify patterns, extract insights, and improve performance over time.
 
